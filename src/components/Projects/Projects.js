@@ -57,35 +57,6 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Image}
-              isBlog={false}
-              title="Title"
-              description="Description"
-              link="Link to GitHub"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Image}
-              isBlog={false}
-              title="Title"
-              description="Description"
-              link="Link to GitHub"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={Image}
-              isBlog={false}
-              title="Title"
-              description="Description"
-              link="Link to GitHub"
-            />
-          </Col>
         </Row>
       </Container>
     </Container>

@@ -31,9 +31,9 @@ function Projects() {
             <ProjectCard
               imgPath={Image}
               isBlog={false}
-              title="Title"
-              description="Description"
-              link="Link to GitHub"
+              title="Note Taker"
+              description="Full-stack application designed for note taking purposes using node.js and express.js. All the information is stored within node.js so we can have a functional server to save data and make changes. Node.js creates html routes as well as api routes."
+              link="https://github.com/Shahabgeravesh/Note-Taker-"
             />
           </Col>
 
@@ -41,9 +41,9 @@ function Projects() {
             <ProjectCard
               imgPath={Image}
               isBlog={false}
-              title="Title"
-              description="Description"
-              link="Link to GitHub"
+              title="Task-Manager"
+              description="A Simple app that helps the user to keep track of to-do list. User is able to enter a task name and pick a task type then keep track of it until completion."
+              link="https://github.com/Shahabgeravesh/Task-Manager"
             />
           </Col>
 
